@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OsumareFrontendStaticPage/static/css/main.1ed877f6.css",
+    "main.js": "/OsumareFrontendStaticPage/static/js/main.bd8a7d4d.js",
+    "static/js/592.7f72a991.chunk.js": "/OsumareFrontendStaticPage/static/js/592.7f72a991.chunk.js",
+    "static/media/logo.svg": "/OsumareFrontendStaticPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OsumareFrontendStaticPage/index.html",
+    "main.1ed877f6.css.map": "/OsumareFrontendStaticPage/static/css/main.1ed877f6.css.map",
+    "main.bd8a7d4d.js.map": "/OsumareFrontendStaticPage/static/js/main.bd8a7d4d.js.map",
+    "592.7f72a991.chunk.js.map": "/OsumareFrontendStaticPage/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed877f6.css",
+    "static/js/main.bd8a7d4d.js"
+  ]
+}
