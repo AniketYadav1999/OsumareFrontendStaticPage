@@ -1,0 +1,165 @@
+*{
+    font-family: Montserrat;
+}
+main{
+    width: 1440px;
+    /* height: 11634px; */
+    top: -5817px;
+    left: -720px
+
+}
+.logo{
+    width: 172px;
+    height: 100px;
+}
+nav{
+    width: Fixed (1,440px); 
+    height: Hug (108px);
+    padding: 8px, 80px, 0px, 80px;
+    justify: space-between;
+    display: flex;
+}
+.Contact{
+    width: 216px;
+    height: 44px;
+    padding: 10px, 24px, 10px, 24px;
+    border-radius: 32px;
+    border: 1px solid black;
+    gap: 4px
+}
+.heading{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    margin-top: 150px;
+    /* text-align: center; */
+}
+.para1{
+    font-family: Open Sans;
+    font-size: 24px; 
+    /* justify-content: center; */
+    /* text-align: center; */
+}
+.getstart{
+    width: 408px;
+    height: 56px;
+    padding: 13px, 136px, 13px, 136px;
+    border-radius: 32px;
+    font-size: x-large;
+    color: white;
+}
+.imagedata{
+    text-align: center;
+    margin-top: 150px;
+}
+.cuate{
+    width: 507.12px;
+    height: 342px;
+    top: 1549px;
+    left: 80px
+
+}
+.container1{
+    margin-top: 150px;
+    display: flex;
+}
+.para2{
+    font-family :Open Sans; 
+    font-size : 24px; 
+    margin: 10px;
+   font-weight: 400;
+   line-height: 36px;
+   letter-spacing: 0em;
+   text-align: left;
+
+}
+.serviceoffer{
+    margin-top: 150px;
+}
+.serviceoffer1{
+    margin-top: 150px;
+    box-shadow: 10px -50px 40px  #409AFF inset;
+    /* margin-left: 50px; */
+}
+.justify{
+    text-align: center;
+    justify-items: center;
+}
+.group{
+    display: flex;
+}
+option{
+    font-family: Montserrat;
+}
+select{
+    width: 500px;
+    height: 50px;
+    margin-left: 40%;
+}
+.msgcontainer{        
+    box-shadow: 2px 1px 50px #409AFF;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 460px;
+    /* top: 342.5px; */
+    /* left: 268px; */
+    /* padding: 32px, 56px, 32px, 56px; */
+    /* border-radius: 16px; */
+    /* gap: 32px  */
+}
+label{
+    font-size: 20px;    
+}
+.form{
+   margin-left: 100px;
+   /* align-items: center; */
+   /* margin: 100px; */
+}
+.form2{
+   margin-left: 50px;
+}
+input{
+    width: 380px;
+    height: 44px;
+/* padding: 8px, 12px, 8px, 12px; */
+/* border-radius: 4px; */
+/* border: 2px; */
+/* gap: 10px */
+
+}
+.textarea{
+    width: 380px;
+    height: 235px;
+/* padding: 8px, 12px, 8px, 12px; */
+/* border-radius: 4px; */
+/* border: 1px; */
+/* gap: 10px */
+}
+.containerfooter{
+    /* align-content: space-evenly; */
+    margin-top: 150px;
+    margin-left:50px;
+    border-radius: 15px;
+    background: linear-gradient(261.57deg, rgba(0, 111, 237, 0.12) 18.01%, rgba(179, 214, 255, 0.12) 90.03%);
+    ;
+}
+.details{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.menu{
+   margin-left: 250px;
+   margin-top: 80px;
+}
+.media{
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.media1{
+    margin: 8px;
+    font-size: x-large;
+}
+.media2{
+    margin-left: -70px;
+}
